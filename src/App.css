@@ -1,0 +1,24 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-image: url(xx.jpg);
+  background-repeat: no-repeat; 
+  background-size: cover;
+  height:90vh;  
+}
+
+h3{
+  color: rgb(147, 148, 148);
+}
+p{
+  color: rgb(77, 83, 83);
+}
+.from{
+  width: 100%;
+  height: 100%;
+}
+.btn{
+  margin: 0.5rem;
+}
